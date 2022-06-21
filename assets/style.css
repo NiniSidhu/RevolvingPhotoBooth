@@ -1,0 +1,18 @@
+.nav-wrapper{
+
+    background-color: #304945;
+
+}
+
+.logo {
+
+    padding-bottom: 120px;
+}
+
+.tag {
+
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.2vw;
+    color: #304945;
+}
