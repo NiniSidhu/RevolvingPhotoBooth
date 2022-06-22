@@ -16,3 +16,13 @@
     font-size: 3.2vw;
     color: #304945;
 }
+
+.photobooth{
+
+    /* background-color: #304945; */
+    /* margin: 20px; */
+    width: 450px;
+    height: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
