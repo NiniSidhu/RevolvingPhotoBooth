@@ -15,6 +15,7 @@
     font-family: 'Sacramento', cursive;
     font-size: 3.2vw;
     color: #304945;
+    text-shadow: 1px 3px grey;
 }
 
 /* .photobooth{
@@ -55,3 +56,4 @@
     display: flex;
 
 }
+
