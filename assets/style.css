@@ -17,15 +17,15 @@
     color: #304945;
 }
 
-.photobooth{
+/* .photobooth{
 
     /* background-color: #304945; */
-    /* margin: 20px; */
+    /* margin: 20px; 
     width: 450px;
     height: auto;
     margin-top: 0px;
     margin-bottom: 0px;
-}
+} */
 
 .card {
     margin: 50px;
@@ -36,4 +36,22 @@
 .card-action{
     color: #304945;
     text-align: center;
+}
+
+.video{
+    border-radius: 2%;
+    
+}
+
+.photobooth{
+    justify-content: center;
+    width:800px;
+    border-radius: 6%;
+}
+
+.image{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
 }
